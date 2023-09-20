@@ -480,7 +480,7 @@ for movie_info in movie_info_list:
 movie_info_list[-11]
 
 
-# In[ ]:
+# In[20]:
 
 
 
